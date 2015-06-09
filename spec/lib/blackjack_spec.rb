@@ -49,4 +49,8 @@ describe "Game" do
     end
   end
 
+  describe "#play" do
+    it ""
+  end
+
 end
